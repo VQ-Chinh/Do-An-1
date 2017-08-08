@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DsChungKhoan>
+
+
+	<ChungKhoan MaChungKhoan="24H">
+		<TenCT>CTCP Quảng cáo trực tuyến 24H</TenCT>
+		<Link>http://s.cafef.vn/otc/24H-ctcp-quang-cao-truc-tuyen-24h.chn
+		</Link>
+		<San>OTC</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="AAA">
+		<TenCT>Công ty Cổ phần Nhựa và Môi trường Xanh An Phát</TenCT>
+		<Link>http://s.cafef.vn/hose/AAA-cong-ty-co-phan-nhua-va-moi-truong-xanh-an-phat.chn
+		</Link>
+		<San>HSX</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="AAAI">
+		<TenCT>CTCP Bảo hiểm AAA</TenCT>
+		<Link>http://s.cafef.vn/otc/AAAI-ctcp-bao-hiem-aaa.chn</Link>
+		<San>OTC</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="AACORP">
+		<TenCT>CTCP Xây dựng Kiến trúc AA</TenCT>
+		<Link>http://s.cafef.vn/otc/AACORP-ctcp-xay-dung-kien-truc-aa.chn
+		</Link>
+		<San>OTC</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="AAM">
+		<TenCT>Công ty Cổ phần Thủy sản Mekong</TenCT>
+		<Link>http://s.cafef.vn/hose/AAM-cong-ty-co-phan-thuy-san-mekong.chn
+		</Link>
+		<San>HSX</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="AAS">
+		<TenCT>Công ty Cổ phần Chứng khoán Á Âu</TenCT>
+		<Link>http://s.cafef.vn/otc/AAS-cong-ty-co-phan-chung-khoan-a-au.chn
+		</Link>
+		<San>OTC</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ABB">
+		<TenCT>Ngân hàng Thương mại cổ phần An Bình</TenCT>
+		<Link>http://s.cafef.vn/otc/ABB-ngan-hang-thuong-mai-co-phan-an-binh.chn
+		</Link>
+		<San>OTC</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ABC">
+		<TenCT>Công ty cổ phần Truyền thông VMG</TenCT>
+		<Link>http://s.cafef.vn/upcom/ABC-cong-ty-co-phan-truyen-thong-vmg.chn
+		</Link>
+		<San>Upcom</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ABF">
+		<TenCT>Công ty cổ phần Quản lý quỹ đầu tư Chứng khoán An Bình</TenCT>
+		<Link>http://s.cafef.vn/otc/ABF-cong-ty-co-phan-quan-ly-quy-dau-tu-chung-khoan-an-binh.chn
+		</Link>
+		<San>OTC</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ABI">
+		<TenCT>Công ty Cổ phần Bảo hiểm Ngân hàng Nông nghiệp</TenCT>
+		<Link>http://s.cafef.vn/upcom/ABI-cong-ty-co-phan-bao-hiem-ngan-hang-nong-nghiep.chn
+		</Link>
+		<San>Upcom</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ABR">
+		<TenCT>công ty Cổ phần Đầu tư Nhãn hiệu Việt</TenCT>
+		<Link>http://s.cafef.vn/upcom/ABR-cong-ty-co-phan-dau-tu-nhan-hieu-viet.chn
+		</Link>
+		<San>Upcom</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ABS">
+		<TenCT>Công ty cổ phần Chứng khoán An Bình</TenCT>
+		<Link>http://s.cafef.vn/otc/ABS-cong-ty-co-phan-chung-khoan-an-binh.chn
+		</Link>
+		<San>OTC</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ABT">
+		<TenCT>Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre</TenCT>
+		<Link>http://s.cafef.vn/hose/ABT-cong-ty-co-phan-xuat-nhap-khau-thuy-san-ben-tre.chn
+		</Link>
+		<San>HSX</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="AC4">
+		<TenCT>Công ty Cổ phần ACC - 244</TenCT>
+		<Link>http://s.cafef.vn/upcom/AC4-cong-ty-co-phan-acc-244.chn</Link>
+		<San>Upcom</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ACB">
+		<TenCT>Ngân hàng Thương mại Cổ phần Á Châu</TenCT>
+		<Link>http://s.cafef.vn/hastc/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn
+		</Link>
+		<San>HNX</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ACBC">
+		<TenCT>Công ty TNHH MTV Quản lý Quỹ ACB (ACBC)</TenCT>
+		<Link>http://s.cafef.vn/otc/ACBC-cong-ty-tnhh-mtv-quan-ly-quy-acb-acbc.chn
+		</Link>
+		<San>OTC</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ACBS">
+		<TenCT>Công ty TNHH Chứng khoán ACB</TenCT>
+		<Link>http://s.cafef.vn/otc/ACBS-cong-ty-tnhh-chung-khoan-acb.chn
+		</Link>
+		<San>OTC</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ACC">
+		<TenCT>Công ty cổ phần Bê tông Becamex</TenCT>
+		<Link>http://s.cafef.vn/hose/ACC-cong-ty-co-phan-be-tong-becamex.chn
+		</Link>
+		<San>HSX</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ACCBQP">
+		<TenCT>Tổng Công ty Xây dựng Công trình Hàng không</TenCT>
+		<Link>http://s.cafef.vn/otc/ACCBQP-tong-cong-ty-xay-dung-cong-trinh-hang-khong.chn
+		</Link>
+		<San>OTC</San>
+	</ChungKhoan>
+	<ChungKhoan MaChungKhoan="ACE">
+		<TenCT>Công ty Cổ phần Bê tông ly tâm An Giang</TenCT>
+		<Link>http://s.cafef.vn/upcom/ACE-cong-ty-co-phan-be-tong-ly-tam-an-giang.chn
+		</Link>
+		<San>Upcom</San>
+	</ChungKhoan>
+</DsChungKhoan>
